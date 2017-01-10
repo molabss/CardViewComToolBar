@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
             });
         }
 
+
 //        Toolbar maintoolbar = (Toolbar) findViewById(R.id.toolbar_main);
 //        if (toolbar != null) {
 //            // inflate your menu
